@@ -1,7 +1,8 @@
 
-# Linktree que desenvolvi para o instagram da minha marca de joias em prata
+# Linktree para o instagram da minha marca de joias em prata
 
 Projeto desenvolvido em HTML e CSS para incluir link na bio do Instagram da minha marca de Joias em prata.
+A partir dele é possível, acessar o site da nossa loja, playlist no spotify e páginas web que são de interesse dos clientes.
 
 
 
