@@ -10,7 +10,7 @@ A partir dele é possível, acessar o site da nossa loja, playlist no spotify e 
 ## Imagem
 
 <p align="center">
-<img alt="askr" align="middle" src="https://github.com/arqgasp/space-invaders/blob/master/preview.png" width="90%">
+<img alt="askr" align="middle" src="https://github.com/arqgasp/linktree-lunatica2/blob/master/image.png" width="90%">
 </p>
 
 
